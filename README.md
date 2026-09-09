@@ -1,4 +1,4 @@
 # Expenses
 
 Simple Python project for tracking expenses.
-Created while learning Git and GitHub and Python.
+Created while learning Python, Git and GitHub.
