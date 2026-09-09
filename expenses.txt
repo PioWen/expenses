@@ -1,3 +1,4 @@
 Paliwo;Auto;500.0
 Jedzenie;Dom;1500.0
 Ciuszki;Dom;40.5
+Kawa;Dom;15
